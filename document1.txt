@@ -1,4 +1,4 @@
-def partition(l, r, nums):
+print("hello world")
 pass
 pass
 # With quicksort() function, we will be utilizing the above code to obtain the pointer
